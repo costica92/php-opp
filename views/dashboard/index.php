@@ -11,8 +11,7 @@ Dashboard... Logged in only..
 
 <br />
 
-
-<h1> Inserts list: </h1>
+<p>Lorem ipsum blslal jak fjakfak la fkafka kfaf a fl alfalk</p>
 
 <div id="listInserts">
 	
