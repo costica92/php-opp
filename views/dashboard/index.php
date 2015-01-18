@@ -7,8 +7,15 @@ Dashboard... Logged in only..
 	<input type="submit" />
 </form>
 
+
+
 <br />
+
+
+<h1> Inserts list: </h1>
 
 <div id="listInserts">
 	
 </div>
+
+
